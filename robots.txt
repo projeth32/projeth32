@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://projeth32.github.io/sitemap.xml
+Sitemap: https://projeth32.github.io/projeth32/sitemap.xml
